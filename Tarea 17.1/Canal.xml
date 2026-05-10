@@ -12,7 +12,8 @@
             <link>https://www.marca.com/motor/motogp/gp-francia/2026/05/09/bagnaia-pole-marc-marquez-record.html</link>
             <pubDate>Sat, 09 May 2026 11:39:00 GMT</pubDate>
             <category>Mundial MotoGP</category>
-            <author>jaimemartin@gmail.com (JAIME MARTÍN)</author>
+            <author>jaimemartin@gmail.com (JAIME MARTIN)</author>
+            <guid>https://www.marca.com/motor/motogp/gp-francia/2026/05/09/bagnaia-pole-marc-marquez-record.html</guid>
         </item>
         
         <item>
@@ -22,35 +23,37 @@
             <pubDate>Sat, 09 May 2026 13:34:00 GMT</pubDate>
             <category>Clasico</category>
             <author>angelperez@gmail.com (Angel Perez)</author>
+            <guid>https://www.mundodeportivo.com/futbol/fc-barcelona/20260509/1004180892/aviso-flick-cara-clasico-manana.html</guid>
         </item>
         
         <item>
-            <title>6-6 (5-4): Remontada histórica de Palma Futsal para buscar su cuarta Champions seguida</title>
-            <description>El conjunto balear igualó un 1-6 en contra para forzar la prórroga, rematar en la tanda y se enfrentará al Sporting de Portugal el domingo (18.00 horas) en busca de otro títuloz</description>
+            <title>6-6 (5-4): Remontada histórica de Palma Futsal</title>
+            <description>El conjunto balear igualó un 1-6 en contra para forzar la prórroga y pasar a la final.</description>
             <link>https://www.mundodeportivo.com/futbol/sala/20260508/1004180726/remontada-historica-palma-futsal-pasar-final-buscar-cuarta-champions-seguida.html</link>
             <pubDate>Sat, 09 May 2026 00:07:00 GMT</pubDate>
             <category>Futsal</category>
-            <author>efe@gmail.com (EFE)</author>
+            <author>prensa@efe.com (EFE)</author>
+            <guid>https://www.mundodeportivo.com/futbol/sala/20260508/1004180726/remontada-historica-palma-futsal-pasar-final-buscar-cuarta-champions-seguida.html</guid>
         </item>        
         
         <item>
-            <title>Djokovic, eliminado en primera ronda del Masters 1000 de Roma tras caer ante Prizmic</title>
-            <description>El número cuatro del mundo volvía a competir dos meses después,
-            El croata sufrió durante el segundo set algún problema físico</description>
+            <title>Djokovic, eliminado en primera ronda del Masters 1000 de Roma</title>
+            <description>El número cuatro del mundo volvía a competir dos meses después tras caer ante Prizmic.</description>
             <link>https://www.rtve.es/deportes/20260508/djokovic-eliminado-primera-ronda-del-masters-1000-roma-tras-caer-ante-prizmic/17060936.shtml</link>
-            <pubDate>Fri, 08 May 2026  21:07:00 GMT</pubDate>
+            <pubDate>Fri, 08 May 2026 21:07:00 GMT</pubDate>
             <category>Tenis</category>
-            <author>rtve@gmail.com (RTVE.es/EFE)</author>
+            <author>deportes@rtve.es (RTVE.es)</author>
+            <guid>https://www.rtve.es/deportes/20260508/djokovic-eliminado-primera-ronda-del-masters-1000-roma-tras-caer-ante-prizmic/17060936.shtml</guid>
         </item>
         
         <item>
-            <title>El Real Madrid sanciona a Valverde y Tchouaméni con 500.000 euros por su enfrentamiento en Valdebebas</title>
-            <description>El club blanco no impone ninguna sanción deportiva a los jugadores
-            El Real Madrid cierra "los procedimientos internos correspondientes" por los hechos ocurridos este jueves</description>
+            <title>El Real Madrid sanciona a Valverde y Tchouaméni con 500.000 euros</title>
+            <description>El club blanco cierra los procedimientos internos por los hechos ocurridos este jueves.</description>
             <link>https://www.rtve.es/deportes/20260508/real-madrid-sanciona-a-valverde-tchouameni-con-500000-euros-por-su-enfrentamiento-valdebebas/17060725.shtml</link>
             <pubDate>Fri, 08 May 2026 18:00:00 GMT</pubDate>
             <category>Real Madrid</category>
-            <author>rtve@gmail.com (RTVE.es)</author>
+            <author>deportes@rtve.es (RTVE.es)</author>
+            <guid>https://www.rtve.es/deportes/20260508/real-madrid-sanciona-a-valverde-tchouameni-con-500000-euros-por-su-enfrentamiento-valdebebas/17060725.shtml</guid>
         </item>
         
     </channel>
