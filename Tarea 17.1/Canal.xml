@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0">
     <channel>
-        <title>Fútbol al Día: Novedades y Fichajes</title>
+        <title>Futbol al Dia: Novedades y Fichajes</title>
         <link>https://github.com/fmg0032/Sindicaci-n-de-Contenidos</link>
         <description>Toda la actualidad sobre el mercado de fichajes y resultados de las ligas europeas.</description>
         <language>es-es</language>
         
         <item>
-            <title>Bagnaia, la pole; Marc Márquez, el récord</title>
-            <description>Pecco le birla el primer lugar después de que el vigente campeón volara en la repesca</description>
+            <title>Bagnaia, la pole; Marc Marquez, el record</title>
+            <description>Pecco le birla el primer lugar después de que el vigente campeon volara en la repesca</description>
             <link>https://www.marca.com/motor/motogp/gp-francia/2026/05/09/bagnaia-pole-marc-marquez-record.html</link>
             <pubDate>Sat, 09 May 2026 11:39:00 GMT</pubDate>
             <category>Mundial MotoGP</category>
@@ -17,8 +17,8 @@
         </item>
         
         <item>
-            <title>El aviso de Flick de cara al Clásico de mañana</title>
-            <description>El técnico azulgrana recordó que "aún tenemos que dar el último paso para ganar LaLiga"</description>
+            <title>El aviso de Flick de cara al Clasico de mañana</title>
+            <description>El tecnico azulgrana recordo que aun tenemos que dar el ultimo paso para ganar LaLiga</description>
             <link>https://www.mundodeportivo.com/futbol/fc-barcelona/20260509/1004180892/aviso-flick-cara-clasico-manana.html</link>
             <pubDate>Sat, 09 May 2026 13:34:00 GMT</pubDate>
             <category>Clasico</category>
@@ -27,8 +27,8 @@
         </item>
         
         <item>
-            <title>6-6 (5-4): Remontada histórica de Palma Futsal</title>
-            <description>El conjunto balear igualó un 1-6 en contra para forzar la prórroga y pasar a la final.</description>
+            <title>6-6 (5-4): Remontada historica de Palma Futsal</title>
+            <description>El conjunto balear igualo un 1-6 en contra para forzar la prorroga y pasar a la final.</description>
             <link>https://www.mundodeportivo.com/futbol/sala/20260508/1004180726/remontada-historica-palma-futsal-pasar-final-buscar-cuarta-champions-seguida.html</link>
             <pubDate>Sat, 09 May 2026 00:07:00 GMT</pubDate>
             <category>Futsal</category>
@@ -38,7 +38,7 @@
         
         <item>
             <title>Djokovic, eliminado en primera ronda del Masters 1000 de Roma</title>
-            <description>El número cuatro del mundo volvía a competir dos meses después tras caer ante Prizmic.</description>
+            <description>El numero cuatro del mundo volvia a competir dos meses despues tras caer ante Prizmic.</description>
             <link>https://www.rtve.es/deportes/20260508/djokovic-eliminado-primera-ronda-del-masters-1000-roma-tras-caer-ante-prizmic/17060936.shtml</link>
             <pubDate>Fri, 08 May 2026 21:07:00 GMT</pubDate>
             <category>Tenis</category>
@@ -47,7 +47,7 @@
         </item>
         
         <item>
-            <title>El Real Madrid sanciona a Valverde y Tchouaméni con 500.000 euros</title>
+            <title>El Real Madrid sanciona a Valverde y Tchouameni con 500.000 euros</title>
             <description>El club blanco cierra los procedimientos internos por los hechos ocurridos este jueves.</description>
             <link>https://www.rtve.es/deportes/20260508/real-madrid-sanciona-a-valverde-tchouameni-con-500000-euros-por-su-enfrentamiento-valdebebas/17060725.shtml</link>
             <pubDate>Fri, 08 May 2026 18:00:00 GMT</pubDate>
@@ -55,6 +55,5 @@
             <author>deportes@rtve.es (RTVE.es)</author>
             <guid>https://www.rtve.es/deportes/20260508/real-madrid-sanciona-a-valverde-tchouameni-con-500000-euros-por-su-enfrentamiento-valdebebas/17060725.shtml</guid>
         </item>
-        
     </channel>
 </rss>
